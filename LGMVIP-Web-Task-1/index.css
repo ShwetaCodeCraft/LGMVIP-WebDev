@@ -4,7 +4,7 @@
     --darkest: #02313e;
     --gray: #d4d7dd;
     --light: #EEE;
-    --pink: #3e1b2c;
+    --pink: #3c0b3c;
     --purple: #645092;
   }
 
@@ -108,7 +108,7 @@ body{
   }
   
   #tasks .task .content .text:not(:read-only){
-    color: var(--pink);
+    color: var(--gray);
   }
   
   #tasks .task .actions{
